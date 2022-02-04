@@ -5,7 +5,7 @@ public class SayHelloTest {
 
     @Test
     public void testSayHello() {
-        assertEquals("Hello World?", SayHello.helloWorld());
+        assertEquals("Hello World!", SayHello.helloWorld());
     }
 
 }
